@@ -27,13 +27,10 @@ PRODUCT_PACKAGES := \
     Calendar \
     CertInstaller \
     DrmProvider \
-    Email \
-    Exchange \
     Gallery2 \
     LatinIME \
     Launcher2 \
     Music \
-    Provision \
     Phone \
     QuickSearchBox \
     Settings \
